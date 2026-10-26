@@ -33,4 +33,4 @@ Signing key: `BC40964C5AA4206E09F6148BD849D193EECADBBB` (`caelestia-plus.asc` he
 
 The packages: `caelestia-plus` (everything), `caelestia-shell-moimart`,
 `caelestia-plus-hypr`, `caelestia-plus-config`, and the AUR packages they need
-(`quickshell-git`, `caelestia-cli`, `app2unit`, `libcava`), built here so they always match.
+(`quickshell-git`, `caelestia-cli`, `app2unit`, `libcava`, `ttf-rubik-vf`), built here so they always match.
