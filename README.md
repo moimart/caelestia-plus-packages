@@ -32,5 +32,6 @@ caelestia-plus-setup
 Signing key: `BC40964C5AA4206E09F6148BD849D193EECADBBB` (`caelestia-plus.asc` here).
 
 The packages: `caelestia-plus` (everything), `caelestia-shell-moimart`,
-`caelestia-plus-hypr`, `caelestia-plus-config`, and the AUR packages they need
-(`quickshell-git`, `caelestia-cli`, `app2unit`, `libcava`, `ttf-rubik-vf`), built here so they always match.
+`caelestia-plus-hypr`, `caelestia-plus-config`, `caelestia-cli-moimart` (the
+`caelestia` cli, which replaces `caelestia-cli`), and the AUR packages they need
+(`quickshell-git`, `python-materialyoucolor`, `app2unit`, `libcava`, `ttf-rubik-vf`), built here so they always match.
